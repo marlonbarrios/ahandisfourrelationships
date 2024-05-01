@@ -34,7 +34,7 @@ To get started with this app, follow these steps:
 Contributions to improve the app are welcome. Please fork the repository, make your changes, and submit a pull request. You can also open issues for bugs you discover or suggest new features.
 
 ## Link to Other App
-Explore similar functionalities with the [Lice app](https://marlonbarrios.github.io/ahandisfourrelationships/).
+Explore similar functionalities with the [LIVE app](https://marlonbarrios.github.io/ahandisfourrelationships/).
 
 ## License
 This project is released under the MIT License - details are available in the [LICENSE.md](LICENSE) file.
