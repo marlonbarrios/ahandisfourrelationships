@@ -1,5 +1,4 @@
-# A Hand is a Paintbrush
-
+# A Hand is 4 relationships
 ## Description
 This interactive p5.js application transforms your hand into a dynamic digital paintbrush. Using your webcam and the power of MediaPipe's real-time hand tracking, the app visualizes the connections between your finger and wrist landmarks. The distance between your fingers intuitively controls the color and transparency of the shape you draw, creating a unique and personal visual experience.
 
